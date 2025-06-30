@@ -1,1 +1,8 @@
-test
+{
+"name":"自用", 
+"icons":
+    [
+	{"name":"yunshang", "url":"https://raw.githubusercontent.com/wzry2041757495/icons/refs/heads/main/icons/yunshang.png"}
+
+    ]
+}
